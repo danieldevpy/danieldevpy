@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omorellis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uelintonmorelli)
 
-<!-- ![Morelli GitHub stats](https://github-readme-stats.vercel.app/api?username=uelintond&show_icons=true&theme=radical) -->
-
 ### Tecnologias que utilizo no meu dia a dia
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
