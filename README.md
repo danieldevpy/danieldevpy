@@ -17,10 +17,11 @@
 
 <br />
 
-Meu nome é Daniel Fernandes, tenho 24 anos e sou especialista em BACK-END, adoro aprender novas formas de resolver problemas no mundo da programação. Também goste de me aventurar em tecnologias front-end, portante me considero um desenvolvedor FULLSTACK.
+Meu nome é Daniel Fernandes, tenho 24 anos e sou especialista em BACK-END. 
+Adoro aprender novas formas de resolver problemas no mundo da programação.
+Também gosto de me aventurar em tecnologias front-end, portante me considero um desenvolvedor FULLSTACK!
 
-Desde cedo, sempre fui apaixonado por tecnologia e ciência no geral, pela possibilidade de criar coisas incríveis,.
-
+Desde cedo, sempre fui apaixonado por tecnologia e ciência no geral, pela possibilidade de criar coisas incríveis.
 Hoje, tenho a sorte de poder trabalhar em coisas que amo e, ao mesmo tempo, ter a liberdade e a flexibilidade que sempre desejei. Aprendi muito ao longo dos anos e agora quero compartilhar meus conhecimentos com outras pessoas.
 
 <br />
