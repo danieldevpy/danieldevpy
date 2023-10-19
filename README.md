@@ -17,8 +17,15 @@
 
 <br />
 
-Meu nome é Daniel Fernandes, tenho 24 anos e sou formado em sistemas de informação. ATualmente desenvolvo full stack em python, golang e typescript e no front React, Nextjs e Vite. 
-Adoro aprender novas formas de resolver problemas na área de desenvovlimento.
+Olá, sou Daniel Fernandes, um desenvolvedor full stack de 24 anos formado em Sistemas de Informação. Sou apaixonado por resolver desafios na área de desenvolvimento, explorando diversas tecnologias.
+
+Trabalho com linguagens como Python, Golang e TypeScript, tanto em desenvolvimento web quanto mobile. No front-end, uso React, Next.js e Vite, e confio no React Native para o desenvolvimento mobile.
+
+Além de codificar, tenho conhecimento em servidores web, APIs REST, Docker e bancos de dados. Também estou familiarizado com sistemas de cache para otimização.
+
+Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se precisa de alguém apaixonado por desenvolvimento e resolução de problemas, estou aqui para ajudar.
+
+Vamos criar algo incrível juntos!
 
 ### Mais sobre minha pessoa
 
