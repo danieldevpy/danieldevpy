@@ -14,6 +14,7 @@
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br />
+### Sobre mim
 Olá, sou Daniel Fernandes, um desenvolvedor full stack de 24 anos formado em Sistemas de Informação. Sou apaixonado por resolver desafios na área de desenvolvimento, explorando diversas tecnologias.
 
 Trabalho com linguagens como Python, Golang e TypeScript, tanto em desenvolvimento web quanto mobile. No front-end, uso React, Next.js e Vite, e React Native para o desenvolvimento mobile.
