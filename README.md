@@ -17,12 +17,12 @@
 
 <br />
 
-Meu nome é Daniel Fernandes, tenho 24 anos e sou especialista em BACK-END. 
-Adoro aprender novas formas de resolver problemas no mundo da programação.
-Também gosto de me aventurar em tecnologias front-end, portante me considero um desenvolvedor FULLSTACK!
+Meu nome é Daniel Fernandes, tenho 24 anos e sou formado em sistemas de informação. ATualmente desenvolvo full stack em python, golang e typescript e no front React, Nextjs e Vite. 
+Adoro aprender novas formas de resolver problemas na área de desenvovlimento.
 
-Desde cedo, sempre fui apaixonado por tecnologia e ciência no geral, pela possibilidade de criar coisas incríveis.
-Hoje, tenho a sorte de poder trabalhar em coisas que amo e, ao mesmo tempo, ter a liberdade e a flexibilidade que sempre desejei. Aprendi muito ao longo dos anos e agora quero compartilhar meus conhecimentos com outras pessoas.
+### Mais sobre minha pessoa
+
+Me aventuro desenvolvendo projetos com arduino e raspbery, junto com aplicações mobile e tambem gosto de programar jogos como hobby.
 
 <br />
 
