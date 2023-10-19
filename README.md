@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernandes-dev/)
 
 ### Tecnologias que utilizo no meu dia a dia
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Golang](https://img.shields.io/badge/golang-05d4eb?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,9 +13,7 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 <br />
-
 Olá, sou Daniel Fernandes, um desenvolvedor full stack de 24 anos formado em Sistemas de Informação. Sou apaixonado por resolver desafios na área de desenvolvimento, explorando diversas tecnologias.
 
 Trabalho com linguagens como Python, Golang e TypeScript, tanto em desenvolvimento web quanto mobile. No front-end, uso React, Next.js e Vite, e React Native para o desenvolvimento mobile.
@@ -30,9 +27,7 @@ Vamos criar algo incrível juntos!
 ### Mais sobre minha pessoa
 
 Me aventuro desenvolvendo projetos com arduino e raspbery, junto com aplicações mobile e tambem gosto de programar jogos como hobby.
-
 <br />
-
 ### Pode ser útil
 <br />
 - Email para contato danielfernandes202@gmail.com
