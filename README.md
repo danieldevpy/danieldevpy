@@ -22,13 +22,9 @@ Trabalho com linguagens como Python, Golang e TypeScript, tanto em desenvolvimen
 
 Além de codificar, tenho conhecimento em servidores web, APIs REST, Docker, Nginx e bancos de dados. Também estou familiarizado com sistemas de cache para otimização.
 
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se precisa de alguém apaixonado por desenvolvimento e resolução de problemas, estou aqui para ajudar.
-
-Vamos criar algo incrível juntos!
-
 ### Mais sobre minha pessoa
 
-Me aventuro desenvolvendo projetos com arduino e raspbery, junto com aplicações mobile e tambem gosto de programar jogos como hobby.
+Me aventuro desenvolvendo projetos com arduino e raspberry, junto com aplicações mobile e tambem gosto de programar jogos como hobby.
 <br />
 ### Pode ser útil
 <br />
