@@ -18,9 +18,7 @@
 
 Me chamo **Daniel Fernandes**, com formação em **Sistemas de Informação** e **Engenharia de Software** atualmente focado em **Python para desenvolvimento web, análise de dados e inteligência artificial**.
 
-Tenho experiência profissional em desenvolvimento de **APIs REST**, integração de sistemas, e a criação de aplicações web e mobiles, além de desenvolvimento de api para o uso de Inteligência Artificial.
-
-### Hobbies e Interesses
+Tenho experiência profissional em desenvolvimento de **APIs REST**, integração de sistemas, e a criação de aplicações web e mobiles, além de desenvolver ferramentas para automação de projetos e analíse de dados conjuntas com IA.
 
 No meu tempo livre, gosto de explorar novas tecnologias, como **Arduino** e **Raspberry Pi**, para criar projetos de automação e IoT. Também me divirto desenvolvendo jogos como hobby, o que me ajuda a manter a criatividade e a lógica de programação sempre afiadas.
 
