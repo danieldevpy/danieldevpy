@@ -1,31 +1,33 @@
 ### Olá, eu sou Daniel Fernandes 🖐️
 
-<!-- [![Blog](https://img.shields.io/website?label=uelinton.com&style=for-the-badge&url=https://uelinton.com)](https://uelinton.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDDDh46G-SXI6JjlXPW7bUg?sub_confirmation=1) -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielfernandes22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielfernandes22)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernandes-dev/)
 
 ### Tecnologias que utilizo no meu dia a dia
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Golang](https://img.shields.io/badge/golang-05d4eb?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node JS](https://img.shields.io/badge/Node-288600?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br />
+
+![C](https://img.shields.io/badge/-C-blue?logo=cplusplus)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+---
+
 ### Sobre mim
-Olá, sou Daniel Fernandes, um desenvolvedor full stack de 24 anos formado em Sistemas de Informação. Sou apaixonado por resolver desafios na área de desenvolvimento, explorando diversas tecnologias.
 
-Trabalho com linguagens como Python, Golang e TypeScript, tanto em desenvolvimento web quanto mobile. No front-end, uso React, Next.js e Vite, e React Native para o desenvolvimento mobile.
+Me chamo **Daniel Fernandes**, com formação em **Sistemas de Informação** e **Engenharia de Software** atualmente focado em **Python para desenvolvimento web, análise de dados e inteligência artificial**.
 
-Além de codificar, tenho conhecimento em servidores web, APIs REST, Docker, Nginx e bancos de dados. Também estou familiarizado com sistemas de cache para otimização.
+Tenho experiência profissional em desenvolvimento de **APIs REST**, integração de sistemas, e a criação de aplicações web e mobiles, além de desenvolvimento de api para o uso de Inteligência Artificial.
 
-### Mais sobre minha pessoa
+### Hobbies e Interesses
 
-Me aventuro desenvolvendo projetos com arduino e raspberry, junto com aplicações mobile e tambem gosto de programar jogos como hobby.
-<br />
-### Pode ser útil
-<br />
-- Email para contato danielfernandes202@gmail.com
+No meu tempo livre, gosto de explorar novas tecnologias, como **Arduino** e **Raspberry Pi**, para criar projetos de automação e IoT. Também me divirto desenvolvendo jogos como hobby, o que me ajuda a manter a criatividade e a lógica de programação sempre afiadas.
+
+---
+
+### Contato
+
+- **Email:** danielfernandes202@gmail.com  
+- **LinkedIn:** [linkedin.com/in/daniel-fernandes-dev](https://www.linkedin.com/in/daniel-fernandes-dev/)  
+- **Instagram:** [instagram.com/danielfernandes22](https://www.instagram.com/danielfernandes22)  
